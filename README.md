@@ -39,7 +39,7 @@ finally:
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvis-1805&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jarvis's github stats"/>
 </a>
 
-<!-->
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805)
 ![Profile views](https://gpvc.arturio.dev/jarvis-1805)
 ![Twitter URL](https://img.shields.io/twitter/url?logo=SHUBHANG%20GUPTA&logoColor=black&style=social&url=https://twitter.com/jarvis_1805)
