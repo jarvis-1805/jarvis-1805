@@ -2,6 +2,8 @@
 
 ### Hi there 👋, Shubhang Gupta
 
+![Profile views](https://gpvc.arturio.dev/jarvis-1805)  
+
 - 🔭 I’m currently working on this page. 
 
 
@@ -11,7 +13,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jarvis-1805&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/jarvis-1805)  
 
 <!--
 **jarvis-1805/jarvis-1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
