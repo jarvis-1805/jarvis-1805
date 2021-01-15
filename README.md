@@ -1,4 +1,7 @@
 # hello world! 💻
+
+### Lets talk code! 👨‍💻
+
 try:
 <pre>
 if about == True:
@@ -11,16 +14,14 @@ elif framework == True:
     print('Metasploitable, Node.js')
 elif games == True:
     raise MemoryError
-else:
-    rasie ValueError('404 Error')
+</pre>
+except MemoryError:
+<pre>
+print('MINECRAFT! Only. Join me on Discord Server ↓') @_@
 </pre>
 except ValueError:
 <pre>
 print('Garbage values found!') O_o
-</pre>
-except MemoryError:
-<pre>
-print('MINECRAFT! Only. Join me on Discord Server. link ↓') @_@
 </pre>
 else:
 <pre>
