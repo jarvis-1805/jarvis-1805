@@ -12,6 +12,8 @@ elif operatingSystems == True:
     print('Linux, Windows')
 elif framework == True:
     print('Metasploitable, Node.js')
+elif mathematicalAnalysis == True:
+    print('wxMaxima')
 elif games == True:
     raise MemoryError
 </pre>
