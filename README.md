@@ -1,46 +1,61 @@
-# hello world! 💻
+# hello world!!! 💻
 
 ### Lets talk code! 👨‍💻
 
 try:
 <pre>
+if  pronouns == True:
+    print('He | Him')
 if about == True:
     print('Majoring in Computer Science and Mathematics from the University of Delhi.')
 elif languages == True:
-    print('Java, C++, Python, HTML, CSS, SQL')
+    print('Java, C++, Python, HTML, CSS, SQL, Shell Scripting')
 elif operatingSystems == True:
     print('Linux, Windows')
 elif framework == True:
     print('Metasploitable, Node.js')
 elif mathematicalAnalysis == True:
     print('wxMaxima')
+elif tools == True:
+    raise ToolsError
 elif games == True:
     raise MemoryError
 </pre>
 except MemoryError:
 <pre>
-print('MINECRAFT! Only. Join me on Discord Server ↓') @_@
+print('MINECRAFT! Join me on Discord Server ↓') @_@
 </pre>
 except ValueError:
 <pre>
 print('Garbage values found!') O_o
+</pre>
+except ToolsError:
+<pre>
+print('<img src='https://icongr.am/devicon/android-original.svg'/>', '<img src='https://icongr.am/devicon/git-original.svg'/>', '<img width="30" src='https://code.visualstudio.com/assets/favicon.ico'/>', '<img src='https://github.githubassets.com/favicons/favicon-dark.png'/>', '<img width="30" src='https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg'/>', '<img width="30" src='assets/ssms.ico'/>')
 </pre>
 else:
 <pre>
 💬 Ask me about ...
 Cryptography, Cybersecurity, Penetration Testing, BugBounty Hunting and Ethical Hacking.
 </pre>
-<br />
+<br>
 finally:
 <pre>
 
 📫 How to reach me: ...\
-[<img src='assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jarvis-1805/)  [<img src='assets/Facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jarvis1805)  [<img src='assets/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jarvis_1805/)  [<img src='assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/jarvis_1805) [<img src='assets/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12154444)  [<img src='assets/Reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/jarvis_1805)  [<img src='assets/Discord.svg' alt='instagram' height='40'>](https://discord.gg/2pkDW7FM2u)
+[<img src='assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jarvis-1805/)  [<img src='assets/Facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jarvis1805)  [<img src='assets/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jarvis_1805/)  [<img src='assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/jarvis_1805) [<img src='assets/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12154444)  [<img src='assets/Reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/jarvis_1805)  [<img src='assets/Discord.svg' alt='instagram' height='40'>](https://discord.gg/Q3vh2Qgbzd)
 </pre>
+<br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvis-1805&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Jarvis's github stats"/>
-</a>
+#### Now let us see some GitHub stats:
+
+![Shubhang github activity graph](https://activity-graph.herokuapp.com/graph?username=jarvis-1805&theme=xcode)
+
+[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvis-1805&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jarvis-1805&theme=radical)](https://git.io/streak-stats)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805)
