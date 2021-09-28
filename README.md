@@ -4,6 +4,8 @@
 
 try:
 <pre>
+if  pubKey == True:
+    print('AE60 C3A0 CB5B 6B33')
 if  pronouns == True:
     print('He | Him')
 if about == True:
@@ -31,7 +33,7 @@ print('Garbage values found!') O_o
 </pre>
 except ToolsError:
 <pre>
-print('<img src='https://icongr.am/devicon/android-original.svg'/>', '<img src='https://icongr.am/devicon/git-original.svg'/>', '<img width="30" src='https://code.visualstudio.com/assets/favicon.ico'/>', '<img src='https://github.githubassets.com/favicons/favicon-dark.png'/>', '<img width="30" src='https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg'/>', '<img width="30" src='assets/ssms.ico'/>')
+print('<img src='https://icongr.am/devicon/android-original.svg'/>', '<img src='https://icongr.am/devicon/git-original.svg'/>', '<img width="30" src='https://code.visualstudio.com/assets/favicon.ico'/>', '<img src='https://github.githubassets.com/favicons/favicon-dark.png'/>', '<img width="30" src='assets/ssms.ico'/>')
 </pre>
 else:
 <pre>
