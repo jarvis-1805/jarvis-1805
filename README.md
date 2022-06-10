@@ -45,15 +45,15 @@ finally:
 <pre>
 
 📫 How to reach me: ...\
-[<img src='assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jarvis-1805/)  [<img src='assets/Facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jarvis1805)  [<img src='assets/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jarvis_1805/)  [<img src='assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/jarvis_1805) [<img src='assets/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12154444)  [<img src='assets/Reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/jarvis_1805)  [<img src='assets/Discord.svg' alt='instagram' height='40'>](https://discord.gg/Q3vh2Qgbzd)
+[<img src='assets/Linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jarvis-1805/)  [<img src='assets/Twitter.svg' alt='twitter' height='40'>](https://twitter.com/jarvis_1805) [<img src='assets/Stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12154444)  [<img src='assets/Facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jarvis1805)  [<img src='assets/Instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jarvis_1805/)  <!-- [<img src='assets/Reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/jarvis_1805) -->[<img src='assets/Discord.svg' alt='instagram' height='40'>](https://discord.gg/Q3vh2Qgbzd)
 </pre>
 <br>
 
-#### Now let us see some GitHub stats:
+### GitHub stats
 
-![Shubhang github activity graph](https://activity-graph.herokuapp.com/graph?username=jarvis-1805&theme=xcode)
+<!-- ![Shubhang github activity graph](https://activity-graph.herokuapp.com/graph?username=jarvis-1805&theme=xcode) -->
 
-[![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvis-1805&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvis-1805&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
