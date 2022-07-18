@@ -55,9 +55,7 @@ finally:
 
 <!-- [![Readme Card](https://github-readme-stats.anuraghazra1.vercel.app/api?username=jarvis-1805&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jarvis-1805&theme=radical)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)&emsp;&emsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jarvis-1805&theme=radical)](https://git.io/streak-stats)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvis-1805)
