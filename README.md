@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@jarvis__1805-03a57a?style=flat-square&labelColor=white&logo=Instagram&link=https://instagram.com/jarvis_1805/)](https://instagram.com/jarvis_1805)
 [![MAIL Badge](https://img.shields.io/badge/-hey--shubhang-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhsahu1805@gmail.com)](mailto:shubhsahu1805@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/jarvis-1805)
+![Profile views](https://komarev.com/ghpvc/?username=jarvis-1805)
 
 ### Lets talk code! 👨‍💻
 
